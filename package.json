@@ -3,18 +3,37 @@
   "version": "1.10.3",
   "private": true,
   "license": "MIT",
+  "description": "Deploy your private Gemini application for free with one click, supporting Gemini 1.5 and Gemini 2.0 models.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ariaemaan/gemini-next-chat.git"
+  },
+  "keywords": ["Gemini", "Next.js", "Chat", "AI", "Gemini 2.0"],
+  "author": "Aria Emaan <your-email@example.com>",
+  "bugs": {
+    "url": "https://github.com/ariaemaan/gemini-next-chat/issues"
+  },
+  "homepage": "https://gemini-next-chat.vercel.app",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "start": "next start",
     "build:docker": "cross-env NEXT_PUBLIC_BUILD_MODE=standalone next build",
     "build:export": "cross-env NEXT_PUBLIC_BUILD_MODE=export next build",
-    "tauri": "tauri",
-    "tauri:dev": "tauri dev",
-    "tauri:build": "tauri build",
-    "start": "next start",
-    "lint": "next lint"
+    "vercel-build": "next build",
+    "lint": "next lint",
+    "clean": "rm -rf .next",
+    "test": "npm run lint && echo \"No test script defined.\""
   },
   "dependencies": {
-    // ... rest unchanged ...
-  }
+    // Add your project's dependencies here
+  },
+  "devDependencies": {
+    // Add your project's devDependencies here
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
+  "vercel-build": "npm run build"
 }
