@@ -1,52 +1,51 @@
 <div align="center">
-<h1>AFG AI - Afghan First AI</h1>
+<h1>اِی‌آی افغانستان (AFG AI) - نخستین هوش مصنوعی افغانستان</h1>
 
 ![GitHub deployments](https://img.shields.io/github/deployments/ariaemaan/gemini-next-chat/Production)
 ![GitHub Release](https://img.shields.io/github/v/release/ariaemaan/gemini-next-chat)
 ![GitHub License](https://img.shields.io/github/license/ariaemaan/gemini-next-chat)
 
-Welcome to **AFG AI (Afghan First AI)** — Proudly developed by [ariaemaan](https://github.com/ariaemaan).  
-Private, multilingual, multimodal AI chat for everyone in Afghanistan and beyond.  
+به پروژه‌ی «اِی‌آی افغانستان» خوش آمدید – یک چت‌بات هوش مصنوعی چندزبانه، چندرسانه‌ای و خصوصی، ویژه مردم افغانستان و سایر کاربران جهان.
 
-**Deploy instantly on Vercel**:  
+**استقرار فوری در وِرسل (Vercel):**  
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fariaemaan%2Fgemini-next-chat)
 
 </div>
 
 ---
 
-## ✨ Features
+## ✨ ویژگی‌ها
 
-- **Rebranded for Afghanistan**: Afghan First AI (AFG AI) — bringing world-class AI chat to Afghanistan.
-- **Private & Secure**: All data stored locally in your browser.
-- **Multimodal**: Chat with text, voice, images, and more.
-- **Multilingual**: English, Dari, Pashto, Arabic, and more.
-- **One-click Deployment**: Deploy on Vercel for free, no credit card needed.
-- **Plugin Support**: Web search, document reading, weather, and more.
-- **Cross-platform**: Desktop (Windows, Mac, Linux) and Web.
+- **برندسازی ویژه افغانستان:** ارائه بهترین خدمات گفت‌وگوی هوش مصنوعی برای افغانستان.
+- **حفظ حریم خصوصی و امنیت:** تمام داده‌ها تنها در مرورگر شما ذخیره می‌شود.
+- **چندرسانه‌ای:** قابلیت گفت‌وگو با متن، صدا، تصویر و موارد بیشتر.
+- **چندزبانه:** پشتیبانی از دری، پشتو، انگلیسی، عربی و سایر زبان‌ها.
+- **استقرار با یک کلیک:** نصب سریع و رایگان بر بستر Vercel، بدون نیاز به کارت بانکی.
+- **پشتیبانی از افزونه‌ها:** جستجوی وب، خواندن اسناد، آب‌وهوا و امکانات دیگر.
+- **سازگاری با همه پلتفرم‌ها:** قابل استفاده در ویندوز، مک، لینوکس و وب.
 
-## 🚀 Quick Start
+## 🚀 آغاز سریع
 
-1. **Deploy to Vercel**  
+۱. **استقرار در وِرسل (Vercel):**  
    [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fariaemaan%2Fgemini-next-chat)
 
-2. **(Optional) Set up API Keys**  
-   - For advanced features, get a Google Gemini API key or use the default configuration.
+۲. **(اختیاری) تنظیم کلیدهای API:**  
+   - برای فعال‌سازی امکانات پیشرفته، کلید Gemini API گوگل را تهیه کنید یا از تنظیمات پیش‌فرض استفاده نمایید.
 
-3. **Enjoy Afghan First AI!**
+۳. **از تجربه هوش مصنوعی افغانستان لذت ببرید!**
 
-## 🛡️ Deployment & Security
+## 🛡️ راه‌اندازی و امنیت
 
-- Recommended: Use [Vercel](https://vercel.com/) for best results.
-- All sensitive keys (API, etc.) should be stored as Vercel environment variables.
-- Default privacy: All chat data is local to your device/browser.
+- توصیه می‌شود از [Vercel](https://vercel.com/) برای بهترین نتیجه استفاده کنید.
+- تمامی کلیدهای حساس (API و غیره) باید به عنوان متغیر محیطی در Vercel ذخیره شوند.
+- به طور پیش‌فرض، تمامی داده‌های گفتگو فقط در دستگاه و مرورگر شما ذخیره می‌گردد.
 
-## 📄 License
+## 📄 جواز
 
-MIT License. Free for all Afghans and the world.
+این پروژه تحت جواز MIT ارائه می‌شود و برای استفاده تمامی افغان‌ها و کاربران جهان آزاد است.
 
 ---
 
-> **Tip:**  
-> For any issues or suggestions, open an [issue](https://github.com/ariaemaan/gemini-next-chat/issues) or [discuss](https://github.com/ariaemaan/gemini-next-chat/discussions).  
-> Spread the word! Share Afghan First AI with friends and colleagues.
+> **نکته:**  
+> در صورت داشتن هرگونه پیشنهاد یا مشکل، لطفاً یک [ایشیو](https://github.com/ariaemaan/gemini-next-chat/issues) باز کنید یا در [بحث‌ها](https://github.com/ariaemaan/gemini-next-chat/discussions) شرکت نمایید.  
+> لطفاً این پروژه را با دوستان و همکاران خود به اشتراک بگذارید.
